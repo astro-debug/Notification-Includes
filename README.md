@@ -18,6 +18,6 @@
 Jangan ragu untuk PM saya jika anda perlu bantuan
 </sub>
 
-<sup>
-Selamat Menggunakan...
-</sup>
+<sub>
+Pollow jika tidak ingin ketinggalan repo lainnya.
+</sub>
