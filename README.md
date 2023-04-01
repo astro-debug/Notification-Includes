@@ -5,6 +5,11 @@
 
 `ShowNotifSuccses` artinya fungsi menampilkan Textdraw Sukses dengan text `SUCCSES`
 
+# Required Plugins
+> `a_samp`
+
+> `Y_Hooks`
+
 # Function
 > `ShowNotifInfo`
 
