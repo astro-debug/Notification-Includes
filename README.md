@@ -20,7 +20,7 @@
 [Discord : Rocky#5501]()
 
 <sub>
-Jangan ragu untuk PM saya jika ada kesalahan dalam script
+Jangan ragu untuk PM saya jika ada kesalahan dalam script,
 </sub>
 
 <sub>
