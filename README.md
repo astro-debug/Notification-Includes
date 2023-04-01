@@ -6,9 +6,9 @@
 `ShowNotifSuccses` artinya fungsi menampilkan Textdraw Sukses dengan text `SUCCSES`
 
 # Required Plugins
-> `a_samp` https://github.com/pawn-lang/samp-stdlib/releases
+`a_samp` https://github.com/pawn-lang/samp-stdlib/releases
 
-> `Y_Hooks` https://github.com/YSI-Coding/y_hooks
+`Y_Hooks` https://github.com/YSI-Coding/y_hooks
 
 # Function
 > `ShowNotifInfo`
