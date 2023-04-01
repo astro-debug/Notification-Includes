@@ -19,5 +19,5 @@ Jangan ragu untuk PM saya jika anda perlu bantuan
 </sub>
 
 <sub>
-Pollow jika tidak ingin ketinggalan repo lainnya.
+Pollow jika tidak ingin ketinggalan repo lainnya 😅
 </sub>
