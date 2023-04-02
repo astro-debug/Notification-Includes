@@ -15,7 +15,7 @@
 
 > `ShowNotifError`
 
-> `NotifSucsess`
+> `ShowNotifSucsess`
 
 [Discord : Rocky#5501]()
 
