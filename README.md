@@ -8,8 +8,6 @@
 # Required Plugins
 `a_samp` https://github.com/pawn-lang/samp-stdlib/releases
 
-`Y_Hooks` https://github.com/YSI-Coding/y_hooks
-
 # Function
 > `ShowNotifInfo`
 
@@ -17,6 +15,18 @@
 
 > `ShowNotifSucsess`
 
+# Usage
+```
+#include <a_samp>
+#include <R_Notification>
+
+public OnPlayerSpawn(playerid)
+{
+    ShowNotifSuccses(playerid, "Anda berhasil login kedalam server", 5000);
+    
+    return 1;
+}
+```
 [Discord : Rocky#5501]()
 
 <sub>
